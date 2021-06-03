@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seasonable orders offered from former precedents whereby the price of corn, with all sorts of other grain may be much abated, to the great benefit of all, especially the poor of this nation. Published for the general good.</title>
+         </titleStmt>
+         <extent>Approx. 34KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58935</idno><idno type="EEBO-CITATION">99831406</idno>
+  <idno type="VID">35869</idno>
+  <idno type="EEBO-PROQUEST">2240899432</idno>
+  
+            <idno type="STC">Wing S2236B</idno>
+            <idno type="STC">ESTC R219962</idno>
+            <idno type="PROQUEST">99831406</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831406e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58935)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35869)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2044:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Seasonable orders offered from former precedents whereby the price of corn, with all sorts of other grain may be much abated, to the great benefit of all, especially the poor of this nation. Published for the general good.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Nathaniel Brooke, at the Angel in Corn-hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Grain --  England --  Prices --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Susie Lorand </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35869:1"/>
+            <pb facs="tcp:35869:1"/>
+            <p>Seasonable Orders Offered from former PRECEDENTS, Whereby the Price of CORN, With all sorts of other GRAIN may be much abated, to the great Benefit of all, especially the Poor of this Nation.</p>
+            <p>Published for the general good.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Nathaniel Brooke,</hi> at the Angel in <hi>Corn-hill.</hi> 1662.</p>
+            <pb facs="tcp:35869:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:35869:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35869:3"/>
+            <pb n="3" facs="tcp:35869:3"/>
+            <head>Seasonable Orders offered from former Precedents, whereby the Price of CORN, with all sorts of other GRAIN may be much abated, to the great benefit of all, especially the Poor of this Nation.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the Reign of Queen ELIZABETH, of happy memory, there happened a great dearth and scarcity of CORN, and other sorts of GRAIN; and the cry of the Poor coming into her Royal Ears, by the ad<g ref="char:EOLhyphen"/>vice of her Privy Councel several good Or<g ref="char:EOLhyphen"/>ders were made for redressing and relieving the Poor, which hereafter followeth, <hi>viz.</hi>
+            </p>
+            <p>That the Sheriff and Justices of the Peace shall immediately upon the receipt of these Orders, assemble themselves together with as much speed as they possible may: And having conferred amongst themselves upon the contents hereof, shall first for the better execu<g ref="char:EOLhyphen"/>tion of the same, divide themselves into sundry companies, and take amongst them into their charge by several divisions, all the Hun<g ref="char:EOLhyphen"/>dreds, Rapes, or Wapentakes of the said County.</p>
+            <div type="part">
+               <head>To appoint sundry Juries to enquire of things hereafter following.</head>
+               <p>
+                  <hi>Item,</hi> Every company so allotted out, shall forthwith direct their Precepts unto the Sheriff to warn the High Constables, under Con<g ref="char:EOLhyphen"/>stables, and other the most honest and substantial Inhabitants with<g ref="char:EOLhyphen"/>in the same Hundred, Rape, or Wapentake, to the number of thirty
+<pb n="4" facs="tcp:35869:4"/> six persons, more or fewer, as the quantity of the Hundred, Rape, or Wapentake shall require, to appeare before them at a certain place, and within as short time after receipt hereof as they conveni<g ref="char:EOLhyphen"/>ently may; and upon the appearance of the said persons, they shall divide them into so many Juries, as they shall think meet, giving in<g ref="char:EOLhyphen"/>struction to the said Sheriff to return as few of such as be known great Farmers for Corn, or that have store of Grain to sell as he can. And such of the persons so warned as shall not appear, but make default being summoned, and not having any just or reasonable excuse al<g ref="char:EOLhyphen"/>lowable by the Justices, to be punished therefore at the good discre<g ref="char:EOLhyphen"/>tions of the Justices, both by Imprisonment and Fine, before whom they are to appear.</p>
+               <p>
+                  <hi>Item,</hi> They shall first declare to the parties appearing, the cause why they are sent for, and therewith earnestly charge them in the fear of God, to apply themselves to the service whereunto they shall be now called with all dutifulness and diligence, and without any partiality to any person, and then they shall give them the Oath following.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="oath">
+                           <head>The Juries Oath.</head>
+                           <p>YOu shall swear, &amp;c. that you shall enquire, and make true and due search and trial, what number of persons every housholder that hath Corn in their Barns, Stacks, or otherwhere as well Justices of the Peace as others whatsoever, within the Parish of <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap> have in their houses feeding, lying, and uprising, or otherwise to be fed: what number of Acres they have certainly to be sowen this year with any manner of Grain: what Bargains they have made with any person for any kinde of Grain to be sold, by, or to them: to whom and by whom, and upon what prices they have made the same, and what quantity of any manner of Grain, they, or any other have in their Barns, Grainers, Lofts, Sellars, or Floors, or otherwise to be delivered unto them upon any Bargain.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <div type="section">
+                  <head>For Badgers, Broggers, and Carriers of Corn.</head>
+                  <p>
+                     <hi>Item,</hi> What number of Badgers, Kidders, Broggers, or Carriers of Corn inhabit within the said Parish, and whither they do use to
+<pb n="5" facs="tcp:35869:4"/> carry their Corn which they do buy, and where they do usually buy the same, and what their names be, and how long they have used that trade, and by whose Licence, and to see the same Licences of what tenor they are of.</p>
+               </div>
+               <div type="section">
+                  <head>Malt-makers, Bakers, and Brewers.</head>
+                  <p>
+                     <hi>Item,</hi> What number of Malt-makers, Bakers, common Brewers, or Tiplers dwell within the said Parish, and who they are by name, and how long they have used that trade, and how much they bake or brew in the week, and what other trade they have whereby otherwise to live.</p>
+               </div>
+               <div type="section">
+                  <head>Buyers of Corn to sell again.</head>
+                  <p>
+                     <hi>Item,</hi> Who within the said Parish be the great buyers of Corn, or do use to buy, or have bought any Corn or Grain to sell again, or have sold it again since Midsummer last.</p>
+               </div>
+               <div type="section">
+                  <head>Buyers of Corn upon the Ground.</head>
+                  <p>
+                     <hi>Item,</hi> Who within the same Parish buyeth or have bought or sold any Grain upon the ground, of whom, and to whom hath the same been bought or sold, and at what price, and to certifie unto us of the Premises, and of every part thereof, on the <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> day of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> now next comming: And to every part of these Articles you shall bring answer from point to point.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Against such as shall refuse to declare the truth of the matters inquirable.</head>
+               <p>And if any shall refuse to declare the truth, of, or concerning the Premisses, or of any part thereof, to any the Jurours aforesaid, re<g ref="char:EOLhyphen"/>quiring the same for their better information; the Jurours shall be informed that such person upon the information of the said Jurour, shall be convented before the Justices of the Peace of the said Divisi<g ref="char:EOLhyphen"/>on, or any two of them, and sharply rebuked, or if need be, punish<g ref="char:EOLhyphen"/>ed for his contempt. And if the party so called in question, shall not declare the full truth thereof to the said Justices, he shall be com<g ref="char:EOLhyphen"/>mited by the said Justices to the common Goal as a person bound for
+<pb n="6" facs="tcp:35869:5"/> his good behaviour, and so to be continued without Bail, untill he shall conform himself therein, or otherwise at the discretions of the said Justices, he shall be bound in a good sum of money to make ap<g ref="char:EOLhyphen"/>pearance before the Lords of her Majesties Privy Councel, to answer unto his contempt in that behalf, for further punishment and fine, for example of all such disobedient persons.</p>
+            </div>
+            <div type="part">
+               <head>A consideration of all persons that have Corn, to determine how they shall serve the Markets with such portions as they may spare.</head>
+               <p>That the said Justices of Peace having received into their hands the verdict of the said Juries answering to every point of their charge, shall call at certain dayes by them to be assigned, such per<g ref="char:EOLhyphen"/>sons before them of every Parish, as upon the presentment so made shall appear to have Corn to spare, and upon due consideration of the number of persons, which every person hath in his house, ac<g ref="char:EOLhyphen"/>cording to their qualities, and of the quantity of Grain, that the party hath toward the finding of the same, or otherwise to be spent in his house and sowing of his grounds, allowing to every Hoshold<g ref="char:EOLhyphen"/>er for his expences in his house, for every person thereof according to their quality, sufficient Corn for Bread and Drink between this and the next Harvest, and for their Seed after the rate of the sowing of that Countrey upon an Acre. And then they shall binde all such as shall appear to have more of any kinde of Grain, then shall serve to the uses abovementioned, as well Justices of the peace as others, by Recognizance, in some good reasonable summe of money, to ob<g ref="char:EOLhyphen"/>serve the orders ensuing, <hi>viz.</hi>
+               </p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="recognizance">
+                           <head>¶ You do knowledge your self to owe unto our Sovereign Lady the Queens Majesty, <hi>&amp;c.</hi> the Summe of <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap>
+                              <hi>&amp;c.</hi>
+                           </head>
+                           <p>THe condition thereof shall be, that if you shall well and truly without fraud, covine, or collusion, and without any manner deceit or craft fulfil, observe and keep, all and every such orders, appointments, and directions, as shall at this present be by us on her Majesties behalf prescribed and enjoyed unto you to be by you done and fulfilled: Then this Recognizance to be void, or else to stand in force.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+            <div type="orders">
+               <pb n="7" facs="tcp:35869:5"/>
+               <head>Orders to be observed by such as shall be appointed to serve the Markets with Corn for the Relief of the Poor People first.</head>
+               <p>YOu shall bring, or cause to be brought weekly so many Quar<g ref="char:EOLhyphen"/>ters or Bushels of Corn, as Wheat, Rye, Barley, Mault, Pease, Beans, or other Grain, or so much thereof as shall not be di<g ref="char:EOLhyphen"/>rectly sold to the poor Artificers or day Labourers of the Parish within which you dwell, by order of the Justices of the Peace of the Division within which you dwell, or two of them, to the Market of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> there to be by you, or at your assignment sold unto the Queens Subjects in open Market by half quarters, two Bushels, one Bushel or less, as the buyer shall require of you, and not in greater quantity, except it be to a Badger, or Carrier of Corn admitted ac<g ref="char:EOLhyphen"/>cording to the Statute, or to a common known Brewer or Baker, ha<g ref="char:EOLhyphen"/>ving testimony under the Hand and Seal of such two Justices of the Peace at the least of the Division, or of a Major or other head Of<g ref="char:EOLhyphen"/>ficer of the City, Town, or Borough Corporate where he dwelleth, that he is a common Brewer or Baker within the same: or to such other person as shall make provision for any Lord Spiritual or Tem<g ref="char:EOLhyphen"/>poral, Knight, or any other Gentleman that hath no provision of Corn, so as the same person have and shew unto such person as shall have the oversight of the Market in that behalf, testimony under the Hand and Seal of the party for whom he cometh to the Market to make that provision, declaring that it is for the provision of his house, and containing the quantities and kinde of Grain to be pro<g ref="char:EOLhyphen"/>vided: And you shall not willingly leave any part of your Corn so brought to that Market unsold, if money be offered to you for the same, by any that are permitted to buy the same, after the usual price of the Market there that day, as long as the Market shall last.</p>
+               <div type="section">
+                  <head>No Corn brought to the Market unsold, to be carried out of the Town.</head>
+                  <p>Neither shall you from the beginning of the Market, to the full end thereof, keep or cause to be kept any of your said Corn out of the open sight of the Market: neither shall you carry away from the Market Town any kinde of Grain that was brought thither which you have not there sold, but shall leave the same there in the Mar<g ref="char:EOLhyphen"/>ket
+<pb n="8" facs="tcp:35869:6"/> Town in some place known, so as it may be brought into the open Market the next Market day at the first opening of the Market, there to be sold as afore was limited. And yet nevertheless, you shall bring to the Market such other quantity of Grain as shall be limi<g ref="char:EOLhyphen"/>ted, and so continue at every Market day the bringing into the open Market, the quantity of Corn that shall be limited.</p>
+               </div>
+               <div type="section">
+                  <head>None to buy such kinde of Corn as they shall bring to sell, but by warrant upon reasonable cause.</head>
+                  <p>Also you shall not buy any manner of such Grain as we shall ap<g ref="char:EOLhyphen"/>point you to sell, from this day forwards, but upon very special and necessary cause to be allowed by us, until such time as all and every such manner of Grains as we at this time shall appoint you to sell, be according to our appointment and order by you sold. And if you shall not sowe so much this year as the Jury hath presented that ye intend to sowe, or if you now have, or shall have knowledge, or shall guess hereafter at any time, either by thrashing of the Mowe or Shocks or otherwise, that ye have more store of any manner of Grain, then the Jury hath presented unto us: that then ye shall forthwith upon such knowledge thereof had, make true relation thereof unto us, or unto two of us, both what portion of your seed Corn shall be left unsown, or what further quantity you shall per<g ref="char:EOLhyphen"/>ceive you have, then was at the first presented.</p>
+                  <p>That so soon as you perceive you spend not after the rate of so much Corn as we have limited unto you for the finding of your house, ye shall make true report unto us or two of us, how much less ye spend.</p>
+               </div>
+               <div type="section">
+                  <head>No Corn to be bought for to sell again.</head>
+                  <p>Ye shall buy no Corn to sell it again, neither shall you by any co<g ref="char:EOLhyphen"/>lour directly or indirectly, appoint any your servants, or any other person to be a Badger of your Corn, other then to carry your Corn to the Market there to be sold as your own, without changing of any property.</p>
+               </div>
+               <div type="section">
+                  <pb n="9" facs="tcp:35869:6"/>
+                  <head>No Corn to be bought but in open Market.</head>
+                  <p>Ye shall neither buy or sell any manner of Corn, but in the open Market, unless the same be to some poor Handicraftsmen, or day-labourers within the Parish wherein you do dwell, that cannot con<g ref="char:EOLhyphen"/>veniently come to the Market Towns, by reason of distance of place, according to such direction as shall be given unto you in that behalf by us the Justices of the Peace of that Division within which you do dwell, or two of us, and to none of these above one Bushel at a time, and thereof you shall keep or cause to be kept a particular note in writing to whom you shall so sell weekly, and at what pri<g ref="char:EOLhyphen"/>ces, so as the same may appear to the Justices to be done without fraud or abuse.</p>
+               </div>
+               <div type="section">
+                  <head>Inquiry to be made against Ingrossers.</head>
+                  <p>That the Justices of the Peace within their several Divisions have regard that Ingrossers of Corn be carefully looked unto, and inquisi<g ref="char:EOLhyphen"/>tions to be made for knowledge of them, so as they may be severely punished according to the Law: And where such are found, to make Certificates, their names and dwellings, and of the proofs to the Queens Majesties Atturney general for the time being, who is di<g ref="char:EOLhyphen"/>rected speedily to enform against them for the same▪ and to see that none be permitted to buy any Corn to sell again, but by special Li<g ref="char:EOLhyphen"/>cence, and that of all manner of Licences by Justices of the Peace or by any other Authority, the parties that shall have such Licenses, shall cause an entry to be made in the books of the Peace remaining with the <hi>Custos Rotulorum,</hi> or the Clerk of the Peace; for entry whereof the party shall not pay above two pence, and thereof the <hi>Custos Rotulorum,</hi> or the Clerk shall keep a good Register to be shewed to the Justices, whensoever they shall require the sight thereof.</p>
+               </div>
+               <div type="section">
+                  <head>Regard to the Bakers for keeping of the size of Bread.</head>
+                  <p>That they take order with the common Bakers for the baking of Rye, Barley, Pease, and Beans for the use of the poor, and that they appoint special and fit persons diligently to see the people well dealt withal by the common Bakers and Brewers in all Towns and places in their Weights and Assizes, having also regard that the Deputies of the Clerk of the Market do not abuse themselves in unlawful exacti<g ref="char:EOLhyphen"/>ons for Weight and Measure, and effectually to enquire for and search
+<pb n="10" facs="tcp:35869:7"/> out the default therein, and thereupon to give order for punishment of the offender severely, according to the Law: and where any no<g ref="char:EOLhyphen"/>table excessive offence shall be in the Bakers, to cause the bread to be sold to the poorer sort under the ordinary prices, as in part of pu<g ref="char:EOLhyphen"/>nishment of the Baker.</p>
+               </div>
+               <div type="section">
+                  <head>No Badger to buy Corn but in open Market, and with a sufficient License in Writing.</head>
+                  <p>That no Badgers of Corn, Bakers, or Brewers, buy any Grain, or commune or bargain for the same, but in the time of open Markets, and that but by Licence under the hands of the Justices of the Divi<g ref="char:EOLhyphen"/>sion where they do dwell, or three of them, and that they weekly bring their License with them to the Market where they do either buy or sell, or else not to be suffered to buy any: And that the Licence contain how much Grain, of what kinde, and for what place they are licensed to buy and carry, that there be set down upon the Licence in writing, the day, place, quantity, and price at which the Corn is bought, that they take but measurably for the carriage, baking, and brewing thereof, that they shew their books weekly to such as the Justices of the Division wherein they dwell, shall appoint for that purpose being no Bakers or Badgers of Corn, and that those within every eight dayes make report to the Justices of the Division where<g ref="char:EOLhyphen"/>in they dwell, how the people are dealt withal by the Badgers, Ba<g ref="char:EOLhyphen"/>kers, and Brewers, and that such as have sufficient to live on, or that are known to be of any common evil behaviour, be not permitted to be Badgers of Corn, of which sort commonly the report is that there are too many, and therefore the same would be remedied and foreseen: Also that no Badgers be permitted but such as the Statute doth limit, and that no servant of any be licensed to be a Badger, except six of the Justices at the least shall in open Sessions for some necessary cause allow any such, and that none at all be allowed a Badger, except he be allowed in open Sessions, and not to be, as it is in many places, abused for gain of the Clerk of the Peace, or a Ju<g ref="char:EOLhyphen"/>stices Clerk, granted without allowance of the rest of the Justices in their open Sessions. And furthermore, that none be permitted to buy or provide Corn in the Market in Gross, as a Badger, or Baker, Brewer, or Purviour and such like, upon pain of imprisonment, until one hour or more after the full Market be begun, that the poor may be first served.</p>
+               </div>
+               <div type="section">
+                  <pb n="11" facs="tcp:35869:7"/>
+                  <head>Some Justices to be present in the Market, to see the Poor re<g ref="char:EOLhyphen"/>lieved upon reasonable Prices.</head>
+                  <p>That the said Justices, or two or one of them at the least in every Division, shall be personally present at every market within their several Divisions, during the whole time of the Market, to see the orders to be taken by the authority hereof to be well observed, and the poor people provided of necessary Corn, and that with as mueh favour in the prices, as by their earnest perswasion of the Justices can be obtained. By this it is not meant to charge any Lord of Par<g ref="char:EOLhyphen"/>liament, being a Justice of Peace, to attend upon any such service in any Market, otherwise then it shall be with his own good will: but in all other causes tending to the execution of these orders, it is hoped that every person of any estate, will readily give advice and assistance.</p>
+               </div>
+            </div>
+            <div type="orders">
+               <div type="section">
+                  <head>Where Justices are wanting in any Hundred, for to appoint some rich persons to supply the want.</head>
+                  <p>If there shall be any Hundred, Rape, or Wapentake, within the said County, within the which or near thereunto no sufficient num<g ref="char:EOLhyphen"/>ber of the said Justices of the Peace do dwell or inhabit, the said Sheriff and four Justices of the Peace of that County, shall in that case appoint some other honest Gentleman, or the high Constables, under Constables, or such other grave, honest, and substantial per<g ref="char:EOLhyphen"/>sons, not being Corn masters, dwelling within the the said Hundred, Rape, or Wapentake, as they shall by their discretions think conve<g ref="char:EOLhyphen"/>nient, to have the charge, doing the execution of these orders there: whom they shall also instruct how to execute the same diligently and uprightly.</p>
+               </div>
+               <div type="section">
+                  <head>That Ministers and Preachers exhort the rich sort to be liberal to help the more with money or victual needful.</head>
+                  <p>That all good means and perswasions be used by the Justices in their several Divisions, and by admonitions and exhortations in Ser<g ref="char:EOLhyphen"/>mons in the Churches, by the Preachers and Ministers of the Word, that the poor may be served of Corn at convenient and charitable prices. And to the furtherance thereof, that the richer sort be ear<g ref="char:EOLhyphen"/>nestly moved by Christian charity, to cause their Grain to be sold un<g ref="char:EOLhyphen"/>der the common prices of the Market to the poorer sort: A deed of mercy, that will be doubtless rewarded of Almighty God.</p>
+                  <p>That there be no buying or bargaining of any kinde of Corn but in
+<pb n="12" facs="tcp:35869:8"/> open Market and that the Justices in their several Divisions, restrain common Maultsters of making Barley Mault, in those Countreyes and places where there be Oats sufficient to make Mault of for the use of the people, and to restrain as well the brewing of Barley Mault, by or for Alehouses or common Tiplers in those Countreyes and pla<g ref="char:EOLhyphen"/>ces, as also the excess use of any kinde of Mault, by all common Brewers, Maulsters, and common Tiplers, according to the true meaning of this Article: And that the unnecessary number of Ale<g ref="char:EOLhyphen"/>houses and common Tiplers, be forthwith suppressed in all places, and that direction be given to all Tipling-houses, Taverns, and Ale<g ref="char:EOLhyphen"/>houses, not to suffer any persons to repair thither to eat and drink at unseasonable times, or to continue in such houses longer, than to sa<g ref="char:EOLhyphen"/>tisfie their necessity of eating and drinking.</p>
+               </div>
+               <div type="section">
+                  <head>No waste of Bread Corn superfluously, nor any expense thereof but for feeding of people.</head>
+                  <p>That the Justices use all other good means possible that are not men<g ref="char:EOLhyphen"/>tioned in these orders, that the Markets may be well served, and the poor relieved in their provisions during this time of dearth. And that no expence of any Grain meet for bread to feed men, be wasted upon feeding of dogs or other beasts, neither that any be spent in making stuffe called Starch, as of late there hath been discovered great quantity expended in that vain matter, being in no sort to be suffered to continue, the rather also for that there are other things not hurtful to the food of man, that may serve for such purposes, if such purposes at least were requisite.</p>
+               </div>
+               <div type="section">
+                  <head>Able poor People to be set at Work.</head>
+                  <p>That the Justices be straightly commanded to see by all good means, that the able people be set on work in houses of Correction provided and furnished, and there idle Vagabonds to be punished.</p>
+               </div>
+               <div type="section">
+                  <head>Stocks of Money for provision of Works for poor People.</head>
+                  <p>That the Justices do their best to have convenient stocks of money or wares, to be provided in every Division, or other places accord<g ref="char:EOLhyphen"/>ing to the Statute, for setting the Poor on work, and the Justices to use all other good and politick means within their several Divisions, to continue and maintain the poor people in work within the Parish, or at the furthest within the Hundred, or Division, and namely in clothing Countreyes to charge the Clothiers, that have in former
+<pb n="13" facs="tcp:35869:8"/> times gained by that trade, not now in this time of dearth to leave off his trade, whereby the poor may be set on work.</p>
+               </div>
+               <div type="section">
+                  <head>Souldiers hurt, and impotent People, to be relieved in their dwelling places.</head>
+                  <p>That the maimed and hurt Souldiers, and all other impotent per<g ref="char:EOLhyphen"/>sons, be carefully seen unto to be relieved within their several Pa<g ref="char:EOLhyphen"/>rishes, Hundreds, or Divisions, according to the Law therein provi<g ref="char:EOLhyphen"/>ded: and that where the provisions formerly made and assessed upon the Housholders in every Parish be not sufficient, it may be now for this time of dearth charitably encreased. And where any Parish is not able to give sufficient relief to such their poor, that Parish to have the supply of such other Parishes near adjoyning, as have fewer poor, and are better able to give relief. And no Vagabond or sturdy Begger, or any that may otherwise get their living by their labours, be suffered to wander abroad under colour of begging in any Town, Field, or High-way, and that the Justices do presently give order that there be able persons appointed, and sufficiently weaponed, to assist the Constables of every Town to attach such Vagabonds, both in their Towns, Fields, and High-wayes, and to commit them to prison without bayl of any such, but as two of the Justices of the Peace within that Division shall order. And if any Township shall not observe this order, for the attaching and punishing of the said Vagabonds, then the Justices shall see due punishment by fine upon the whole Township, or upon such parties in the Town, as shall be found in fault.</p>
+               </div>
+               <div type="section">
+                  <head>That no Millers be suffered to be common Buyers of Corn, nor to sell Meal, but to attend to the true grinding of the Corn brought, and to use measurable Toll these dear Seasons.</head>
+                  <p>Where in some parts of the Realm, divers Millers, who ought only to serve for grinding of Corn that shall be brought to their Mills, have begun lately a very corrupt trade, to be common buyers of Corn, both in Markets, and out of Markets, and the same do grinde into meal, and do use as Badgers, or otherwise to sell the same at Markets, and in other places, seeking thereby an inordinate gain, besides the misusing of other mens Corn brought thither to be ground, by delay of grinding, or, what worse is, by changing and al<g ref="char:EOLhyphen"/>tering of their good Corn to the worse: It is thought very necessa<g ref="char:EOLhyphen"/>ry,
+<pb n="14" facs="tcp:35869:9"/> that the Justices of the Peace who are not owners by any title of any Mills, nor Masters or Landlords to any Millers, shall first inhibit all Millers upon pain both of imprisonment and fine, to use any such trade of buying of any grain to be sold either in Corn or meal, but to charge them to continue the orderly use of grinding of all manner of Corn that shall be brought to them, in reasonable good sort, and upon reasonable Toll. And for bettter performance hereof, some of the Justices not affectionated to the Millers, shall sometimes perso<g ref="char:EOLhyphen"/>nally themselves resort to the Mills to oversee the doings of the said Millers, and compel them to do their duties. And where none of the Justices can as need shall be, weekly look thereto personally, they shall appoint certain honest persons weekly to attend thereto, and to inform themselves of the poorer sort, how they are used in this time of dearth, for their grinding and their toll, and present the defaults to the Justices, to be speedily reformed with all due severity.</p>
+               </div>
+               <div type="section">
+                  <head>Conferences to be had betwixt the Justices of Peace in the Shires, and the principal Officers of Cities and Towns Corporate for provisions of Grain, for the inhabitants in Cities and Corporate Towns.</head>
+                  <p>
+                     <hi>Item,</hi> Where there are within the circuit of any Shire, or thereto adjoyning any Cities that are incorporated as Towns within them<g ref="char:EOLhyphen"/>selves, or any other Towns incorporate, that have by good autority Justices of Peace of their own inhabitants, for that commonly such Cities and Towns have there greatest number of housholders that are no owners of Grain, bu<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ave common Bakers and Brewers, must of necessity buy and provide their Corn or Meal at the Markets near thereto, to serve all other the inhabitants and resiants within the said Cities and Towns: For the provision of all such Cities and Towns, it shall be necessary that the Justices of the Peace of the Shires next to the same Cities and Towns, shall have a meeting and conference with the head Officers of the said Cities and Towns, how and in what good manner the Bakers and Brewers, and other houshoulders that shall also have need to provide Corn or Meal for the necessary use of the private housholds, may be provided at the Markets near to the same. And after due conference had hereof, there shall be by the Ju<g ref="char:EOLhyphen"/>stices of Peace, and the foresaid head Officers some good Orders set down, such as both may serve for the needful use of the same Towns and Cities, and also may not by abuse give cause of raising of prices
+<pb n="15" facs="tcp:35869:9"/> in the Markets and places near adjoyning. And where there shall be adjoyning to the same Cities and Towns, or not far distant, divers Shires, (as in many places such is the situation of them) there some of the Justices of every Shire so adjoyning, or not far distant, shall use such conference and take such orders with the said Officers as afore is mentioned. And in such cases the Justices of every such Shire shall be informed mutually from the one Shire unto the other, of the need<g ref="char:EOLhyphen"/>ful provisions to be made from time to time for the said Cities and Towns, so as every Shire may proportionably yield reasonable succor and relief out of their Markets to the Purveyors, or to the Bakers and Brewers, as shall be requisite without burthening of the one more then the other may reasonably bear. And if need shall require, the foresaid principal Officers shall not refuse to acquaint the Justices, from whence the provision shall be bought and provided, how such provisions so had and bought in Markets are spent, that by colour of such provisions no abuse be committed to increase the prices, and so to leave the poor unable to be relieved.</p>
+               </div>
+               <div type="section">
+                  <head>Order for places exempted from the Jurisdiction of the Justices of Peace in the bodies of the Shires.</head>
+                  <p>If there be any special part within any Shire, that hath, as a Liberty by special Commissions, any Justices of the Peace within the same, the Sheriff of the Shire shall send unto the principal owner or Officer of such Liberties, notice of these Orders, and shall charge them that the Justices of the Peace within such Liberty do their duties for execution of all these Orders, as far forth as shall be requisite, and therein also to use by conference the advice of some other Justices next adjoining.</p>
+               </div>
+               <div type="section">
+                  <head>Regard to stay all Transportation of Grain out of the Realm.</head>
+                  <p>That in all Counties maritine where Ports or Creeks are, by which any Corn may be carried out of the Realm, though also there are Commissioners appointed under the great Seal of <hi>England,</hi> to take care that no Corn be shipped or laden in any Vessel to pass out of the Realm: Yet nevertheless, the Justices of the Peace that are not pla<g ref="char:EOLhyphen"/>ced in that Commission, if they be no owners of Corn to sell, shall also use their diligence to stay such lading of Corn, either in Ports or Creeks, or upon any Rivers leading to the same. And if the foresaid Commissioners shall not do their duties therein by authority of their Commission, then any other Justice by authority of these Orders
+<pb n="16" facs="tcp:35869:10"/> shall make stay of all such Transportation, and in his so doing, shall be allowed and maintained. And this is thought meet to be in this sort directed, for that it may be doubted, that amongst so many as are ap<g ref="char:EOLhyphen"/>pointed in the foresaid Commission against transportation, some may be mistaken, being themselves either transporters, or friends or favorers to transporters, or negligent in the execution of the charge commit<g ref="char:EOLhyphen"/>ted to them.</p>
+               </div>
+               <div type="section">
+                  <head>Certificate to be made of the execution of these Orders monethy to the Sheriff, and he to certifie the same to the Privy Councel within every forty dayes.</head>
+                  <p>That the Justices of the Peace do once every moneth certifie their doings and proceedings by force of these Instructions unto the Sheriff of the said County, in which Certificate they shall also make Certifi<g ref="char:EOLhyphen"/>cate of such Justices as shall be absent from any of these services, and the true cause of their absence, and shall also certifie the usual prices of all kinds of Grain in their Markets for that month past: Of all which the same Sheriff shall certifie to the Privy Councel without any delay, so as he do certifie once in every forty dayes at the furthest, and so as also the default in any Justice that shall be absent without necessary cause, may be duly considered, and reformed by authority of her Ma<g ref="char:EOLhyphen"/>jesties Councel, as reason shall require, whereby such persons as are placed as Justices for their credit, may not continue in those rooms wherein they shall be found not disposed to attend such necessary and godly services as this is, but that others of better disposition may sup<g ref="char:EOLhyphen"/>ply those rooms, if there shall be need of any such number, as in most places it is thought not very needful, the number of late years being in common opinion more hurtful then profitable to Justice.</p>
+                  <p>And if any shall offend against the true meaning of these Instructi<g ref="char:EOLhyphen"/>ons, or of any part thereof, or shall use any sinister mean to the de<g ref="char:EOLhyphen"/>frauding thereof, that such be severely punished according to the Laws; and for such obstinate persons as shall not conform them<g ref="char:EOLhyphen"/>selves, the Justices shall at their pleasure binde them to appear before the Queens Majesties Privy Councel by a day certain, there to be fur<g ref="char:EOLhyphen"/>ther dealt with by severe punishment, for the better example of all others.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35869:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
